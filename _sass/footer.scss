@@ -1,0 +1,38 @@
+footer {
+	
+	position: fixed;
+	z-index: 9;
+	bottom: 10px;
+	left: 10px;
+	padding: 5px 10px;
+	opacity: .5;
+	
+	nav {
+		
+		font-size: 8px;
+		text-transform: uppercase;
+		
+		a {
+			
+			color: #fff;
+		
+		}
+		
+	}
+	
+}
+
+
+@media (hover: hover) {
+
+	footer {
+		
+		transition: opacity ease-in-out .15s;
+		
+		&:hover {
+			
+			opacity: 1;
+			
+		}
+	}
+}

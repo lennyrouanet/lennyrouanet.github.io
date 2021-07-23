@@ -1,0 +1,29 @@
+<svg width="500" height="501" viewBox="0 0 500 501" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="500" height="501" fill="white"/>
+<rect width="500" height="50" fill="#212121"/>
+<rect y="50" width="500" height="50" fill="#424242"/>
+<rect y="100" width="500" height="50" fill="#616161"/>
+<rect y="150" width="500" height="50" fill="#757575"/>
+<rect y="200" width="500" height="50" fill="#9E9E9E"/>
+<rect y="250" width="500" height="50" fill="#BDBDBD"/>
+<rect y="300" width="500" height="50" fill="#E0E0E0"/>
+<rect y="350" width="500" height="50" fill="#EEEEEE"/>
+<rect y="400" width="500" height="50" fill="#F5F5F5"/>
+<rect y="450" width="500" height="50" fill="#FAFAFA"/>
+<path d="M165 333L424.808 783H-94.8076L165 333Z" fill="#616161"/>
+<path d="M166 393L425.808 843H-93.8076L166 393Z" fill="#757575"/>
+<path d="M333 166L592.808 616H73.1924L333 166Z" fill="black"/>
+<path d="M333 226L592.808 676H73.1924L333 226Z" fill="#212121"/>
+<path d="M333 286L592.808 736H73.1924L333 286Z" fill="#424242"/>
+<path d="M333 346L592.808 796H73.1924L333 346Z" fill="#616161"/>
+<path d="M333 406L592.808 856H73.1924L333 406Z" fill="#757575"/>
+<path d="M333 466L592.808 916H73.1924L333 466Z" fill="#9E9E9E"/>
+<circle cx="166" cy="150" r="25" fill="#EEEEEE"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="500" height="501" fill="white"/>
+</clipPath>
+</defs>
+</svg>

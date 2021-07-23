@@ -1,0 +1,12 @@
+collections_dir: contents
+
+collections:
+  projets:
+    output: true
+    sort_by: year_start
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

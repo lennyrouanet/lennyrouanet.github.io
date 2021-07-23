@@ -1,0 +1,74 @@
+<header>
+	<a class="name" href="/"><span>Lenny</span> <span>ROUANET</span></a>
+	<a class="nav-handle"></a>
+	<nav class="menu">
+		{% for item in site.data.navigation %}
+		<a href="{{ item.url }}">{{ item.label }}</a>
+		{% endfor %}
+	</nav>
+	<nav class="social">
+		<a href="http://www.linkedin.com/in/lennyrouanet" target="_blank">
+			<i class="fab fa-fw fa-linkedin-in"></i>
+			<span>LinkedIn</span>
+		</a>
+		<a href="http://twitter.com/lennyrouanet" target="_blank">
+			<i class="fab fa-fw fa-twitter"></i>
+			<span>Twitter</span>
+		</a>
+		
+		<a href="https://github.com/lennyrouanet" target="_blank">
+			<i class="fab fa-fw fa-github"></i>
+			<span>Github</span>
+		</a>
+		
+		<a href="https://www.instagram.com/lennyrouanet/" target="_blank">
+			<i class="fab fa-fw fa-instagram"></i>
+			<span>Instagram</span>
+		</a>
+		<a href="https://www.flickr.com/photos/lennyrouanet/albums" target="_blank">
+			<i class="fab fa-fw fa-flickr"></i>
+			<span>Flickr</span>
+		</a>
+		
+		<a href="https://www.behance.net/lennyrouanet" target="_blank">
+			<i class="fab fa-fw fa-behance"></i>
+			<span>Behance</span>
+		</a>
+		<a href="https://gr.pinterest.com/lennyrouanet/" target="_blank">
+			<i class="fab fa-fw fa-pinterest"></i>
+			<span>Pinterest</span>
+		</a>
+		
+		<a href="https://soundcloud.com/lenny-rouanet" target="_blank">
+			<i class="fab fa-fw fa-soundcloud"></i>
+			<span>Soundcloud</span>
+		</a>
+		
+		<a href="https://www.yelp.fr/user_details?userid=_rlF1wfaWURx-zxKReOqRg" target="_blank">
+			<i class="fab fa-fw fa-yelp"></i>
+			<span>Yelp</span>
+		</a>
+	</nav>
+	<script>
+		document.addEventListener('DOMContentLoaded', function () {
+			let html = document.querySelector('html');
+			document.querySelectorAll('header .nav-handle').forEach((tab) => {
+				let navMenu = tab.closest('header').querySelector('nav.menu');
+				let navSocial = tab.closest('header').querySelector('nav.social');
+				tab.addEventListener('click', (event) => {
+					if (tab.classList.contains('nav-handle')) {
+						tab.classList.toggle('open');
+						navMenu.classList.toggle('open');
+						navSocial.classList.toggle('open');
+						html.classList.toggle('noscroll');
+					} else {
+						tab.classList.remove('open');
+						navMenu.classList.remove('open');
+						navSocial.classList.remove('open');
+						html.classList.remove('noscroll');
+					}
+				});
+			});
+		});
+	</script>
+</header>

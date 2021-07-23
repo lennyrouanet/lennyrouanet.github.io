@@ -1,0 +1,22 @@
+<article>
+	<a href="{{ project.url }}">
+		<figure>
+			<img src="{{ project.logo }}" alt="{{ project.title }}">
+		</figure>
+		<div class="description">
+			<h3>{{ project.title }}</h3>
+			<p>{{ project.description }}</p>
+			<dl>
+				<dd><span>Date</span> 
+				{% if project.year_end %}
+				de&nbsp;{{ project.year_start }} à&nbsp;{{ project.year_end | default: "-" }}
+				{% else %}
+				Depuis {{ project.year_start }}
+				{% endif %}
+				</dd>
+				<dd><span>Type</span> {{ project.type }}</dd>
+				<dd><span>Compétences</span> {{ project.skills | join: ", " }}</dd>
+			</dl>
+		</div>
+	</a>
+</article>

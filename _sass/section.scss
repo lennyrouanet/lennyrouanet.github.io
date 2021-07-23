@@ -1,0 +1,179 @@
+section {
+	
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	padding: 60px;
+	background: #C4C4C4;
+	
+	@media (max-width: $breakpoint) {
+	
+		padding: 60px 20px;
+	
+	}
+	
+	h1,
+	h2,
+	h3 {
+		
+		font-family: 'Josefin Sans', sans-serif;
+		font-weight: 300;
+		max-width: 500px;
+		width: 100%;
+		text-transform: uppercase;
+		
+	}
+	
+	h1 {
+		
+		max-width: 900px;
+		margin: 50px 0;
+		font-size: 80px;
+		line-height: 1.4em;
+		text-align: center;
+		
+		@media (max-width: $breakpoint) {
+		
+			font-size: 50px;
+		
+		}
+		
+	}
+	
+	h2 {
+		
+		margin: 50px 0 0 0;
+		font-size: 34px;
+		line-height: 1.4em;
+		
+	}
+	
+	h3 {
+		
+		margin: 30px 0 0 0;
+		position: relative;
+		font-size: 20px;
+		line-height: 1.4em;
+		
+	}
+	
+	h4 {
+		
+		margin: 20px 0 0 0;
+		text-transform: none;
+		font-size: 18px;
+		line-height: 1.4em;
+		
+	}
+	
+	p {
+		
+		margin: 15px 0 0 0;
+		max-width: 500px;
+		width: 100%;
+		text-align: justify;
+		
+		strong {
+			font-weight: bold;
+		}
+		
+	}
+	
+	ul {
+		
+		margin: 15px 0 0 25px;
+		max-width: 500px;
+		width: 100%;
+		
+		li {
+			
+			white-space: normal;
+			
+		}
+	}
+	
+	a {
+		
+		color: inherit;
+		font-size: 14px;
+		text-decoration: underline;
+		cursor: pointer;
+		
+	}
+	
+	figure {
+		
+		display: block;
+		background: #fff;
+		overflow: hidden;
+		
+		img {
+			
+			display: block;
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+			
+		}
+	}
+	
+	article {
+		
+		margin-top: 30px;
+		
+	}
+	
+	&.home {
+		
+		font-family: 'Gilda Display', serif;
+		
+		h1 {
+			
+			margin: 0;
+			font-family: 'Gilda Display', serif;
+			color: #304A72;
+			font-size: 125px;
+			text-transform: none;
+			
+			@media (max-width: $breakpoint) {
+			
+				font-size: 60px;
+			
+			}
+			
+			span {
+				
+				color: #000;
+				
+			}
+		}
+		
+		p {
+			@media (max-width: $breakpoint) {
+			
+				width: 250px;
+			
+			}
+			span {
+				color: #304A72;
+			}
+		}
+	}
+	
+}
+
+@media (hover: hover) {
+
+	section a:hover {
+		
+		text-decoration: none;
+		
+	}
+	
+}
+
+@import 'section/about';
+@import 'section/projects';
+@import 'section/project';

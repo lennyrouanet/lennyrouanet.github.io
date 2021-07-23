@@ -1,0 +1,13 @@
+{% include head.html %}
+	<main>
+		<section class="projects">
+			{{ content }}
+			<div class="list">
+			{% assign projets = site.projets | reverse %}
+			{% for project in projets %}
+				{% include project.html %}
+			{% endfor %}
+			</div>
+		</section>
+	</main>
+{% include foot.html %}

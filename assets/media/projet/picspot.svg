@@ -1,0 +1,13 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="500" height="500" fill="white"/>
+<path d="M359.68 213.959C359.68 276.43 277.3 400 249.84 400C222.38 400 140 276.43 140 213.959C140 151.487 176.384 100 249.84 100C323.295 100 359.68 151.487 359.68 213.959Z" stroke="#BC9B58" stroke-width="10"/>
+<line x1="294.656" y1="109.549" x2="296.029" y2="219.388" stroke="#BC9B58" stroke-width="10"/>
+<line x1="348.899" y1="168.066" x2="271.224" y2="245.741" stroke="#BC9B58" stroke-width="10"/>
+<line x1="354.188" y1="247.792" x2="227.872" y2="247.792" stroke="#BC9B58" stroke-width="10"/>
+<line x1="312.208" y1="331.453" x2="206.487" y2="225.732" stroke="#BC9B58" stroke-width="10"/>
+<line x1="205.023" y1="358.751" x2="205.023" y2="188.499" stroke="#BC9B58" stroke-width="10"/>
+<line x1="147.08" y1="244.748" x2="230.833" y2="160.995" stroke="#BC9B58" stroke-width="10"/>
+<path d="M152 159.531H265.309" stroke="#BC9B58" stroke-width="10"/>
+<line x1="213.558" y1="106.075" x2="297.311" y2="189.828" stroke="#BC9B58" stroke-width="10"/>
+<circle cx="249.84" cy="205.721" r="13.73" fill="black"/>
+</svg>

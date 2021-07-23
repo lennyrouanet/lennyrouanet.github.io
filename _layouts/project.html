@@ -1,0 +1,31 @@
+{% include head.html %}
+	<main>
+		<section class="project">
+			<aside>
+				<figure>
+					<img src="{{ page.logo }}" alt="{{ page.title }}">
+				</figure>
+				<dl>
+					<dd><span>Date</span> 
+					{% if page.year_end %}
+					de&nbsp;{{ page.year_start }} à&nbsp;{{ page.year_end | default: "-" }}
+					{% else %}
+					Depuis {{ page.year_start }}
+					{% endif %}
+					</dd>
+					<dd><span>Type</span> {{ page.type }}</dd>
+					<dd><span>Compétences</span> {{ page.skills | join: ", " }}</dd>
+				</dl>
+				{% if page.external_link %}
+					<a href="{{ page.external_link }}" target="_blank" class="button">{{ page.external_link_friendly }}</a>
+				{% endif %}
+				<nav>
+					<a href="/projets.html"><i class="fas fa-fw fa-th"></i> Retour à la liste des projets.</a>
+				</nav>
+			</aside>
+			<article>
+				{{ content }}
+			</article>
+		</section>
+	</main>
+{% include foot.html %}
