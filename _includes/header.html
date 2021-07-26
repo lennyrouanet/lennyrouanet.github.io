@@ -53,15 +53,18 @@
 		document.addEventListener('DOMContentLoaded', function () {
 			let html = document.querySelector('html');
 			document.querySelectorAll('header .nav-handle').forEach((tab) => {
-				let navMenu = tab.closest('header').querySelector('nav.menu');
-				let navSocial = tab.closest('header').querySelector('nav.social');
+				let header = tab.closest('header');
+				let navMenu = header.querySelector('nav.menu');
+				let navSocial = header.querySelector('nav.social');
 				tab.addEventListener('click', (event) => {
 					if (tab.classList.contains('nav-handle')) {
+						header.classList.toggle('open');
 						tab.classList.toggle('open');
 						navMenu.classList.toggle('open');
 						navSocial.classList.toggle('open');
 						html.classList.toggle('noscroll');
 					} else {
+						header.classList.toggle('open');
 						tab.classList.remove('open');
 						navMenu.classList.remove('open');
 						navSocial.classList.remove('open');

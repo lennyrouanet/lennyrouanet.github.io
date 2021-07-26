@@ -10,7 +10,7 @@ section {
 	
 	@media (max-width: $breakpoint) {
 	
-		padding: 60px 20px;
+		padding: 110px 20px 20px 20px;
 	
 	}
 	
@@ -18,7 +18,7 @@ section {
 	h2,
 	h3 {
 		
-		font-family: 'Josefin Sans', sans-serif;
+		font-family: "Josefin Sans", sans-serif;
 		font-weight: 300;
 		max-width: 500px;
 		width: 100%;
@@ -127,19 +127,25 @@ section {
 	
 	&.home {
 		
-		font-family: 'Gilda Display', serif;
+		font-family: "Gilda Display", serif;
+		
+		@media (max-width: $breakpoint) {
+		
+			padding: 20px;
+		
+		}
 		
 		h1 {
 			
 			margin: 0;
-			font-family: 'Gilda Display', serif;
+			font-family: "Gilda Display", serif;
 			color: #304A72;
 			font-size: 125px;
 			text-transform: none;
 			
 			@media (max-width: $breakpoint) {
 			
-				font-size: 60px;
+				font-size: 70px;
 			
 			}
 			
@@ -153,7 +159,7 @@ section {
 		p {
 			@media (max-width: $breakpoint) {
 			
-				width: 250px;
+				width: 280px;
 			
 			}
 			span {
@@ -174,6 +180,6 @@ section {
 	
 }
 
-@import 'section/about';
-@import 'section/projects';
-@import 'section/project';
+@import "section/about";
+@import "section/projects";
+@import "section/project";

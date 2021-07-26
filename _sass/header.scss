@@ -10,6 +10,19 @@ header {
 	left: 0;
 	right: 0;
 	color: #fff;
+	
+	@media (max-width: $breakpoint) {
+	
+		-webkit-backdrop-filter: blur(15px);
+		backdrop-filter: blur(15px);
+	
+	}
+	
+	&.open {
+		
+		bottom: 0;
+		
+	}
 
 	a.name {
 
@@ -22,6 +35,8 @@ header {
 		letter-spacing: 1.25px;
 		line-height: 1.2em;
 		font-weight: 300;
+		text-decoration: none;
+		color: #fff;
 		
 		span {
 			
@@ -53,7 +68,7 @@ header {
 			height: 2px;
 			width: 20px;
 			background: #fff;
-			transition: width ease-in-out .15s, transform ease-in-out .15s, top ease-in-out .15s .15s;
+			transition: width ease-in-out .25s .30s, top ease-in-out .15s .15s, transform ease-in-out .05s;
 			
 		}
 		
@@ -65,12 +80,14 @@ header {
 		}
 		
 		&.open {
+			
 		
 			&:before,
 			&:after {
 			
 				top: 45px;
 				width: 30px;
+				transition: width ease-in-out .05s, top ease-in-out .15s .05s, transform ease-in-out .25s .30s;
 				
 			}
 			&:before {
@@ -105,8 +122,16 @@ header {
 				right: 0;
 				opacity: 0;
 				background: rgba(0,0,0,.25);
+				-webkit-backdrop-filter: blur(15px);
 				backdrop-filter: blur(15px);
 				transition: opacity ease-in-out .5s;
+				
+				@media (max-width: $breakpoint) {
+				
+					-webkit-backdrop-filter: unset;
+					backdrop-filter: unset;
+				
+				}
 				
 			}
 		}
@@ -143,6 +168,8 @@ header {
 				a {
 					
 					padding: 30px;
+					text-decoration: none;
+					color: #fff;
 					
 				}
 			}
@@ -152,11 +179,12 @@ header {
 				bottom: 15px;
 				right: 15px;
 				
-				@media (max-width: $breakpoint) {
+				@media (max-height: $breakpointHeight) {
 				
 					left: 15px;
 					flex-direction: row;
 					flex-wrap: wrap-reverse;
+					justify-content: flex-end;
 					margin: auto;
 				
 				}
@@ -164,6 +192,8 @@ header {
 				a {
 					
 					padding: 15px;
+					text-decoration: none;
+					color: #fff;
 					
 					@media (max-width: $breakpoint) {
 					
@@ -192,9 +222,10 @@ header {
 
 			visibility: hidden;
 			opacity: 0;
-			font-family: 'Gilda Display', serif;
+			font-family: "Josefin Sans", serif;
 			color: #fff;
 			transition: opacity ease-in-out .15s .25s;
+			text-transform: uppercase;
 			
 		}
 		
@@ -203,6 +234,12 @@ header {
 			a {
 				
 				font-size: 60px;
+				
+				@media (max-height: $breakpointHeight) {
+				
+					font-size: 50px;
+				
+				}
 				
 			}
 		}
@@ -214,7 +251,7 @@ header {
 				display: flex;
 				flex-direction: row;
 				align-items: center;
-				font-family: 'Lato', sans-serif;
+				font-family: "Lato", sans-serif;
 				
 				i {
 					
@@ -306,6 +343,14 @@ header {
 					span {
 						display: block;
 						opacity: .65;
+					}
+					
+					@media (max-width: $breakpoint) {
+					
+						span {
+							display: none;
+						}
+					
 					}
 				}
 			}
