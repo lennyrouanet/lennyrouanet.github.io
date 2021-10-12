@@ -20,7 +20,7 @@ En dehors de mes activités professionnelles, je prends également plaisir à d�
 
 Depuis 2009, jai réalisé de nombreux projets d’édition d’application web et de sites web à forte valeur ajoutée.
 
-Mes expériences dans l’**edition de logiciels**, le **e-commerce**, le **CRM**, l’événementiel ou encore la **gestion de projets** m’ont forgé une **expertise technique** nécessaires à la conduite de projets informatiques **innovants** et à forts notions metier.
+Mes expériences dans l’**edition de logiciels**, le **e-commerce**, le **CRM**, l’événementiel ou encore la **gestion de projets** m’ont forgé une **expertise technique** nécessaire à la conduite de projets informatiques **innovants** et à forts notions metier.
 
 Pour mener à bien les projets sur lesquels j’interviens, j’utilise entre autres ces outils et technologies :
 
@@ -35,7 +35,7 @@ Pour mener à bien les projets sur lesquels j’interviens, j’utilise entre au
 - [Ansible](https://www.ansible.com/){:target="_blank"}
 - [Photoshop](https://www.adobe.com/fr/products/photoshop.html){:target="_blank"} & [Figma](https://www.figma.com/){:target="_blank"}
 - [Trello](https://trello.com/){:target="_blank"} & [Clubhouse](https://clubhouse.io/){:target="_blank"}
-- [Méthologies Agiles](https://fr.wikipedia.org/wiki/M%C3%A9thode_agile){:target="_blank"}
+- [Méthologies Agiles](https://fr.wikipedia.org/wiki/M%C3%A9thode_agile){:target="_blank"}, [Lean](https://fr.wikipedia.org/wiki/Lean_(production)){:target="_blank"} & [Design Thinking](https://fr.wikipedia.org/wiki/Design_thinking){:target="_blank"}
 
 
 ## Photographie
