@@ -11,20 +11,33 @@ Fort d’une dizaine d’années d’expérience sur l’ensemble des « stacks 
 
 Malgré que je sois technophile, j'ai la conviction que **la technologie n’est pas une finalité en soi** : elle doit s’effacer au profit de l'usage et de la fonctionnalité – La devise de l’architecte allemand Mies van der Rohe « Less is more » synthétise efficacement mon état d’esprit.
 
-Depuis 2019, je suis **Responsable Innovation chez Opéra Énergie**, leader français du courtage en énergie.
-
 En dehors de mes activités professionnelles, je prends également plaisir à découvrir le monde, découvrir de nouvelles saveurs et expérimenter les arts créatifs tels que le **photographie**, la **musique**, le **design** et la **cuisine**.
+
+
+
+## Professionnel
+
+Inconditionnel du Lean et du Design Thinking, j'ai accompagné plusieurs organisations (**Opéra Énergie** (2015-2022), **DigiFactory** (2009-2015), **Scoléo** (2009-2015), etc.) dans leur développement. J'ai mené à bien des projets transversaux dont le succès a été décisif pour ces entreprises (lancement de produit, levée de fond, croissance du CA, industrialisation, passage de start-up à scale-up, etc.).
+
+Je porte une attention toute particulière à la culture d'entreprise, notamment sur ces sujets :
+- Culture du prototype,
+- Culture du design,
+- Culture de la synthèse,
+- Culture de l’empathie,
+- Culture de l'erreur,
+- Culture de la transparence.
+
+En accord avec mes fonctions et mes convictions, je fais honneur à mon devoir d'exemplarité sur ces sujets.
+
 
 
 ## Logiciel
 
-Depuis 2009, jai réalisé de nombreux projets d’édition d’application web et de sites web à forte valeur ajoutée.
+Depuis 2009, j'ai réalisé de nombreux projets d’édition d’application web et de sites web à forte valeur ajoutée.
 
 Mes expériences dans l’**edition de logiciels**, le **e-commerce**, le **CRM**, l’événementiel ou encore la **gestion de projets** m’ont forgé une **expertise technique** nécessaire à la conduite de projets informatiques **innovants** et à forts notions metier.
 
 Pour mener à bien les projets sur lesquels j’interviens, j’utilise entre autres ces outils et technologies :
-
-
 
 - [HTML](https://www.w3c.fr/standards/){:target="_blank"} & [CSS](https://www.w3c.fr/standards/){:target="_blank"}
 - [JavaScript](https://www.w3.org/standards/webdesign/script){:target="_blank"} & [VueJS](https://vuejs.org/){:target="_blank"}
@@ -38,11 +51,13 @@ Pour mener à bien les projets sur lesquels j’interviens, j’utilise entre au
 - [Méthologies Agiles](https://fr.wikipedia.org/wiki/M%C3%A9thode_agile){:target="_blank"}, [Lean](https://fr.wikipedia.org/wiki/Lean_(production)){:target="_blank"} & [Design Thinking](https://fr.wikipedia.org/wiki/Design_thinking){:target="_blank"}
 
 
+
 ## Photographie
 
 J’exerce la photographie numérique depuis 2010 : en voyage, lors d’événements, autour des arts culinaires, en architecture et en produit.
 
 J’apporte de l’importance à chaque étape de mon travail : choix de la composition, maitrise de la technique et soin lors du développement.
+
 
 
 ## Gastronomie
@@ -63,10 +78,8 @@ Je conçois des espaces de vie procurant bien être et satisfaction en apportant
 
 
 
-
 ## Musique
 
 Passionné de musique depuis mon enfance, j’ai pratiqué quelques temps la batterie et la guitare avant de me diriger vers la musique électronique.<br>
 Après avoir passé des centaines d’heures sur des stations audionumérique (DAW), la synthèse et la numérisation du son n’ont quasiment plus de secrets pour moi.
-
 

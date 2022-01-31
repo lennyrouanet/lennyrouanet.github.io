@@ -5,7 +5,7 @@ description: Direction technique & Innovation
 logo: /assets/media/projet/opera-energie.svg
 
 year_start: 2015
-year_end: 
+year_end: 2022
 type: Professionnel
 skills: [Direction technique, Innovation]
 
@@ -82,15 +82,15 @@ Opéra Énergie peut compter sur des **partenaires de qualité** tout en s’ass
 
 *Depuis 2019*
 
-Après avoir occupé le rôle de **CTO pendant 4 ans**, je me consacre désormais à l'**Innovation**.
+Après avoir occupé le rôle de **CTO pendant 4 ans**, je me suis ensuite consacré à l'**Innovation**.
 
-En tant que Responsable Innovation, j’ai en charge les sujets suivants :
+En tant que Responsable Innovation, j’ai eu en charge les sujets suivants :
 
 #### Identification d’opportunités business
 
-Une opportunité doit **apporter de la valeur** au client et répondre à un besoin.
+Une opportunité doit répondre à un besoin et **apporter de la valeur** au client.
 
-Identifier des opportunités demande bien entendu une **expertise métier**. Mais c'est en me concentrant sur les utilisateurs (clients et collaborateurs), en portant attention à leurs besoins, que j’identifie les opportunités les plus intéressantes.
+Identifier des opportunités demande bien entendu une **expertise métier**. Mais c'est en me concentrant sur les utilisateurs (clients et collaborateurs), en portant attention à leurs besoins, que j’ai identifié les opportunités les plus intéressantes.
 
 
 #### Étude, prototypage et expérimentation d’opportunités
@@ -102,7 +102,7 @@ Durant cette phase, les piliers fondamentaux sont :
 - recueillir le **feedback**,
 - **itérer**.
 
-À chaque itération, j'intègre les clients, les équipes métier et techniques pour affiner la recherche et distiller la connaissance permettant d'aboutir sur un **succès**.
+À chaque itération, j'ai intégré les clients, les équipes métier et techniques pour affiner la recherche et distiller la connaissance permettant d'aboutir sur un **succès**.
 
 
 #### Stratégie et culture d’innovation
