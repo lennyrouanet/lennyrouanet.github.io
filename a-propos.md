@@ -20,14 +20,14 @@ En dehors de mes activités professionnelles, je prends également plaisir à d�
 Inconditionnel du Lean et du Design Thinking, j'ai accompagné plusieurs organisations (**Opéra Énergie** (2015-2022), **DigiFactory** (2009-2015), **Scoléo** (2009-2015), etc.) dans leur développement. J'ai mené à bien des projets transversaux dont le succès a été décisif pour ces entreprises (lancement de produit, levée de fond, croissance du CA, industrialisation, passage de start-up à scale-up, etc.).
 
 Je porte une attention toute particulière à la culture d'entreprise, notamment sur ces sujets :
-- Culture du prototype,
-- Culture du design,
-- Culture de la synthèse,
-- Culture de l’empathie,
-- Culture de l'erreur,
-- Culture de la transparence.
+- Culture du **prototype**,
+- Culture du **design**,
+- Culture de la **synthèse**,
+- Culture de l’**empathie**,
+- Culture de l'**erreur**,
+- Culture de la **transparence**.
 
-En accord avec mes fonctions et mes convictions, je fais honneur à mon devoir d'exemplarité sur ces sujets.
+En accord avec **mes fonctions** et **mes convictions**, je fais honneur à mon devoir d'**exemplarité** sur ces sujets.
 
 
 
@@ -54,9 +54,9 @@ Pour mener à bien les projets sur lesquels j’interviens, j’utilise entre au
 
 ## Photographie
 
-J’exerce la photographie numérique depuis 2010 : en voyage, lors d’événements, autour des arts culinaires, en architecture et en produit.
+J’exerce la **photographie numérique** depuis 2010 : en voyage, lors d’événements, autour des arts culinaires, en architecture et en produit.
 
-J’apporte de l’importance à chaque étape de mon travail : choix de la composition, maitrise de la technique et soin lors du développement.
+J’apporte de l’importance à chaque étape de mon travail : choix de la **composition**, maitrise de la **technique** (prise de vue, lumière, etc.) et soin lors du **développement**.
 
 
 
@@ -66,7 +66,7 @@ Depuis 2014 je me suis immergé dans les arts culinaires.
 
 La curiosité des débuts à rapidement laissé place à une passion des bonnes choses et du savoir-faire.
 
-J'ai pratiqué la photo culinaire, la food design et le partage des bonne adresse dans un guide culinaire en ligne.
+J'ai pratiqué la **photo culinaire**, la **food design** et le **partage des bonnes adresses** dans un guide culinaire en ligne.
 
 
 
@@ -74,12 +74,13 @@ J'ai pratiqué la photo culinaire, la food design et le partage des bonne adress
 
 Quand on parle de design, en France notamment, on parle principalement de l’esthétique alors que n’est qu’une composante de la discipline.
 
-Je conçois des espaces de vie procurant bien être et satisfaction en apportant une sensibilité à la conception, aux matières et à l'esthétique.
+Je conçois des **espaces de vie** procurant **bien être** et satisfaction en apportant une sensibilité à la **conception**, aux **matière**s et à l'**esthétique**.
 
 
 
 ## Musique
 
-Passionné de musique depuis mon enfance, j’ai pratiqué quelques temps la batterie et la guitare avant de me diriger vers la musique électronique.<br>
-Après avoir passé des centaines d’heures sur des stations audionumérique (DAW), la synthèse et la numérisation du son n’ont quasiment plus de secrets pour moi.
+Passionné de musique depuis mon enfance, j’ai pratiqué quelques temps la batterie et la guitare avant de me diriger vers la **musique électronique**.
+
+Après avoir passé des centaines d’heures sur des stations audionumérique (**DAW**), la **synthèse** et la **numérisation** du son n’ont quasiment plus de secrets pour moi.
 

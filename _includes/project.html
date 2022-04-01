@@ -1,4 +1,4 @@
-<article>
+<article{% if project.pined %} class="pined"{%endif%}>
 	<a href="{{ project.url }}">
 		<figure>
 			<img src="{{ project.logo }}" alt="{{ project.title }}">
