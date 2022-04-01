@@ -1,6 +1,5 @@
 .button {
-	background: rgba(255,255,255,.5);
-	border: solid 1px #fff;
+	background: rgba(33,37,41,.5);
 	color: #fff;
 	line-height: 2em;
 	padding: 0 15px;
@@ -11,7 +10,7 @@
 @media (hover: hover) {
 	.button {
 		&:hover {
-			background: rgba(255,255,255,.25);
+			background: rgba(33,37,41,.25);
 			color: inherit;
 		}
 	}

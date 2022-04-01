@@ -4,6 +4,8 @@ title: wwwant
 description: Assistant shopping en ligne
 logo: /assets/media/projet/wwwant.svg
 
+pined: true
+
 year_start: 2020
 year_end: 
 type: Personnel

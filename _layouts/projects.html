@@ -5,6 +5,33 @@
 			<div class="list">
 			{% assign projets = site.projets | reverse %}
 			{% for project in projets %}
+				{% if project.pined == null %}
+					{% continue %}
+				{% endif %}
+				{% if project.year_end != null %}
+					{% continue %}
+				{% endif %}
+				{% include project.html %}
+			{% endfor %}
+			{% for project in projets %}
+				{% if project.pined != null %}
+					{% continue %}
+				{% endif %}
+				{% if project.year_end != null %}
+					{% continue %}
+				{% endif %}
+				{% include project.html %}
+			{% endfor %}
+			</div>
+		</section>
+		<section class="projects ended">
+			<h2>{{ page.title_ended_projects }}</h2>
+			<div class="list">
+			{% assign projets = site.projets | reverse %}
+			{% for project in projets %}
+				{% if project.year_end == null  %}
+					{% continue %}
+				{% endif %}
 				{% include project.html %}
 			{% endfor %}
 			</div>
