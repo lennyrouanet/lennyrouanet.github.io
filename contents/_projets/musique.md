@@ -1,6 +1,6 @@
 ---
 layout: project
-title: LNY
+title: nōid
 description: Compositions singulières
 logo: /assets/media/projet/musique.svg
 
@@ -9,11 +9,11 @@ year_end:
 type: Personnel
 skills: [Musique]
 
-external_link: https://soundcloud.com/lenny-rouanet
-external_link_friendly: soundcloud.com/lenny-rouanet
+external_link: https://soundcloud.com/noid_music
+external_link_friendly: soundcloud.com/noid_music
 ---
 
-# LNY
+# nōid
 
 ## Compositions singulières
 
