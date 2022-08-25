@@ -23,6 +23,6 @@ Après avoir passé des centaines d’heures sur des stations audionumérique (D
 
 ### Inspirations
 
-- Électronique : Trentemøller, Modeselektor, Apparat, Moderat, The Prodigy, Gramatik, Kiasmos.
+- Ambient : Nils Frahm, Ben Lukas Boysen, Hania Rani, Ólafur Arnalds.
+- Électronique : Moderat, Trentemøller, Modeselektor, Apparat, The Prodigy, Gramatik, Kiasmos.
 - Industriel : KMFDM, Combichrist, VNV Nation.
-- Classique : Nils Frahm, Ben Lukas Boysen, Ólafur Arnalds.
