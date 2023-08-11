@@ -15,7 +15,7 @@ external_link_friendly: github.com/PhantPHP
 
 # Phant
 
-## Outils PHP simple d'utilisation
+## Outils PHP simples d'utilisation
 
 Je partage des outils PHP simples d'utilisation.
 
