@@ -5,7 +5,7 @@ description: Assistant shopping en ligne
 logo: /assets/media/projet/wwwant.svg
 
 year_start: 2020
-year_end: 
+year_end: 2022
 type: Personnel
 skills: [Produit, Business, Logiciel]
 

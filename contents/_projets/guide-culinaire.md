@@ -5,7 +5,7 @@ description: Mes bonnes adresses
 logo: /assets/media/projet/guide-culinaire.svg
 
 year_start: 2014
-year_end: 
+year_end: 2022
 type: Personnel
 skills: [Gastronomie]
 
