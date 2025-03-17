@@ -5,7 +5,7 @@ description: Espaces interieurs minimalistes
 logo: /assets/media/projet/espaces-de-vie.svg
 
 year_start: 2014
-year_end: 
+year_end: 2024
 type: Personnel
 skills: [Design d'intérieur]
 
